@@ -4,6 +4,7 @@ import (
 	"errors"
 	"github.com/badoux/checkmail"
 	"github.com/jinzhu/gorm"
+	"github.sandbox.com/forum-app/forum-server/api/security"
 	"html"
 	"log"
 	"os"
